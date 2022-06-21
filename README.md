@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikos</h1>
 <h3 align="center">An undergraduate student at University of Thessaly, Volos</br>
-and a learner PCB designer at [Centaurus Racing Team](gg.com)
+and a learner PCB designer at [Centaurus Racing Team](centaurusracing.gr)
 </h3>
 
 - 🔭 I’m currently working on [designing PCBs for Centaurus Racing Team's latest car](centaurusracing.gr)
