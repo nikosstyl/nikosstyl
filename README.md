@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nikos</h1>
 <h3 align="center">An undergraduate student at University of Thessaly, Volos</br>
-and a learner PCB designer at <a href="centaurusracing.gr">Centaurus Racing Team</a>
+and a learner PCB designer at <a href="https://centaurusracing.gr">Centaurus Racing Team</a>
 </h3>
 
-- 🔭 I’m currently working on [designing PCBs for Centaurus Racing Team's latest car](centaurusracing.gr)
+- 🔭 I’m currently working on [designing PCBs for Centaurus Racing Team's latest car](https://centaurusracing.gr)
 
 - 📫 How to reach me **stylian.nikos@gmail.com**
 
